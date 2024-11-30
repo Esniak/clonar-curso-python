@@ -1,3 +1,4 @@
+# Este es un comentario de prueba para realizar un push
 with open('archivos\\texto_de_dalto.txt','a',encoding="UTF-8") as archivo:
     #usando un bucle para agregar varias lineas
     archivo.write("\n")
